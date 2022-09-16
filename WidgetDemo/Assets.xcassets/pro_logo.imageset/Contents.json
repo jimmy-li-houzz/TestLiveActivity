@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "houzz_pro_m_rgb.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
